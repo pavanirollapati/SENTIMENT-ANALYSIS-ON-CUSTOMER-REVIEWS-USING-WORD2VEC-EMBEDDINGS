@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-ON-CUSTOMER-REVIEWS-USING-WORD2VEC-EMBEDDINGS
+Sentiment analysis on customer reviews using Word2Vec embeddings involves converting text into numerical vectors that capture word meanings based on context. By applying Word2Vec, the model learns semantic relationships between words. This allows for accurate classification of customer feedback into positive, negative, or neutral sentiments.
